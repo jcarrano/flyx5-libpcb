@@ -1,0 +1,19 @@
+syntax: glob
+*~
+*.pyc
+*.o
+*.la
+*.lo
+*.gch
+a.out
+*.pfd
+*.elf
+*.test
+
+# permitimos los pdf?
+# *.pdf
+
+.libs
+
+syntax: regexp
+.*\#.*\#$
