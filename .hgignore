@@ -9,6 +9,8 @@ a.out
 *.pfd
 *.elf
 *.test
+*.PcbLib.htm
+*.SchLib.htm
 
 # permitimos los pdf?
 # *.pdf
