@@ -1,0 +1,38 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=datasource\;Extended Properties="text;HDR=Yes;FMT=Delimited"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=..\footprints;..\symbols
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+LastFocusedTable=Passive#csv
+[Table1]
+SchemaName=
+TableName=Passive#csv
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=170|Library Ref0=74|Footprint Ref0=84|Name0=140|Manufacturer0=129|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=133
+[FieldMap1]
+Options=FieldName=Passive#csv.Description|TableNameOnly=Passive#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Passive#csv.Library Ref|TableNameOnly=Passive#csv|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Passive#csv.Footprint Ref|TableNameOnly=Passive#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Passive#csv.Name|TableNameOnly=Passive#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
