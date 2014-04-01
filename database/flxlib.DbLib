@@ -5,7 +5,7 @@ ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=H:\hardware\quad\p
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -18,7 +18,7 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
-LastFocusedTable=Discrete#csv
+LastFocusedTable=Connector#csv
 [Table1]
 SchemaName=
 TableName=Connector#csv
@@ -34,9 +34,6 @@ TableName=Discrete#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=134|Description0=217|Library Ref0=103|Footprint Ref0=84|Manufacturer0=170|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table3]
 SchemaName=
 TableName=MCU#csv
@@ -49,18 +46,12 @@ TableName=Passive#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=173|Description0=211|Library Ref0=75|Footprint Ref0=92|Manufacturer0=205|Manufacturer Part Number0=148|Value0=102|Supplier 10=70|Supplier Part Number 10=133
 [Table5]
 SchemaName=
 TableName=Power_IC#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=83|Description0=258|Library Ref0=74|Footprint Ref0=99|Manufacturer Part Number0=148|Manufacturer0=94|Value0=78|Supplier 10=70|Supplier Part Number 10=132
 [FieldMap1]
 Options=FieldName=Connector#csv.Name|TableNameOnly=Connector#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
