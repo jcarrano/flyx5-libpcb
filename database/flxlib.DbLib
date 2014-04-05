@@ -1,11 +1,11 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=H:\hardware\quad\pbclib\database\datasource;Extended Properties="text;HDR=Yes;Fmt=Delimited";Persist Security Info=False
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Thurk\Documents\Flying Automatons\LibPcb\database\datasource;Extended Properties="text;HDR=Yes;Fmt=Delimited";Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -18,25 +18,34 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
-LastFocusedTable=Power_IC#csv
+LastFocusedTable=Discrete#csv
 [Table1]
 SchemaName=
 TableName=Connector#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=145|Description0=128|Library Ref0=151|Footprint Ref0=106|Manufacturer0=86|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table2]
 SchemaName=
 TableName=Discrete#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=134|Description0=217|Library Ref0=103|Footprint Ref0=84|Value0=50|Manufacturer0=170|Manufacturer Part Number0=148|Supplier 10=70|Supplier Part Number 10=132
 [Table3]
 SchemaName=
 TableName=MCU#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=114|Description0=161|Library Ref0=74|Footprint Ref0=121|Manufacturer Part Number0=148|Manufacturer0=94|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table4]
 SchemaName=
 TableName=Passive#csv
@@ -49,9 +58,6 @@ TableName=Power_IC#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=90|Description0=258|Library Ref0=108|Footprint Ref0=99|Manufacturer Part Number0=148|Manufacturer0=99|Value0=78|Supplier 10=70|Supplier Part Number 10=132
 [FieldMap1]
 Options=FieldName=Connector#csv.Name|TableNameOnly=Connector#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
