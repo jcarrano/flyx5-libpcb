@@ -1,3 +1,4 @@
 #!/bin/sh
-rm -f compiled/flxlib.zip
-7z a compiled/flxlib.zip ./compiled/*/*.IntLib
+rm -f compiled/*.zip
+FILENAME="flxlib-$(hg id -in | sed 'y/ /:/').zip"
+7z a "compiled/${FILENAME}" ./compiled/*/*.IntLib
