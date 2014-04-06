@@ -1,0 +1,4 @@
+Name,Description,"Library Ref","Footprint Ref",Manufacturer,"Manufacturer Part Number",Value,"Supplier 1","Supplier Part Number 1"
+TESTP_PWR_1mm,"Tespoint for Power Trace",TESTPOINT-ARROW-RED,G-PIN_1mm-CIRCLE,,,,,
+TESTP_SIG_1mm,Tespoint,TESTPOINT-ARROW-BLUE,G-PIN_1mm-CIRCLE,,,,,
+TESTP_GND_GREEN_1mm,"Ground Connection",TESTPOINT-CIRCLE-GREEN,G-PIN_1mm-CROSS,,,,,
