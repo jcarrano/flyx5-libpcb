@@ -1,0 +1,1 @@
+Copiar datalink.udl a C:\ y editar para que apunte al path correcto.
