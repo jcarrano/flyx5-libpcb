@@ -18,7 +18,7 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
-LastFocusedTable=MCU#csv
+LastFocusedTable=Mixed_Signal#csv
 [Table1]
 SchemaName=
 TableName=Connector#csv
@@ -37,16 +37,22 @@ TableName=MCU#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+[Table4]
+SchemaName=
+TableName=Mixed_Signal#csv
+Enabled=True
+UserWhere=0
+UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=114|Description0=161|Library Ref0=74|Footprint Ref0=121|Manufacturer Part Number0=148|Manufacturer0=94|Value0=50|Supplier 10=70|Supplier Part Number 10=132
-[Table4]
+BrowserOrder_Visible=Name0=67|Description0=209|Library Ref0=74|Footprint Ref0=144|Manufacturer0=128|Manufacturer Part Number0=148|Value0=67|Supplier 10=70|Supplier Part Number 10=132
+[Table5]
 SchemaName=
 TableName=Passive#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-[Table5]
+[Table6]
 SchemaName=
 TableName=Power_IC#csv
 Enabled=True
@@ -81,20 +87,28 @@ Options=FieldName=MCU#csv.Footprint Ref|TableNameOnly=MCU#csv|FieldNameOnly=Foot
 [FieldMap14]
 Options=FieldName=MCU#csv.Manufacturer Part Number|TableNameOnly=MCU#csv|FieldNameOnly=Manufacturer Part Number|FieldType=1|ParameterName=Manufacturer Part Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap15]
-Options=FieldName=Passive#csv.Name|TableNameOnly=Passive#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Mixed_Signal#csv.Name|TableNameOnly=Mixed_Signal#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap16]
-Options=FieldName=Passive#csv.Description|TableNameOnly=Passive#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Mixed_Signal#csv.Description|TableNameOnly=Mixed_Signal#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap17]
-Options=FieldName=Passive#csv.Library Ref|TableNameOnly=Passive#csv|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Mixed_Signal#csv.Library Ref|TableNameOnly=Mixed_Signal#csv|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap18]
-Options=FieldName=Passive#csv.Footprint Ref|TableNameOnly=Passive#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Mixed_Signal#csv.Footprint Ref|TableNameOnly=Mixed_Signal#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap19]
-Options=FieldName=Power_IC#csv.Name|TableNameOnly=Power_IC#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Passive#csv.Name|TableNameOnly=Passive#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap20]
-Options=FieldName=Power_IC#csv.Description|TableNameOnly=Power_IC#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Passive#csv.Description|TableNameOnly=Passive#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap21]
-Options=FieldName=Power_IC#csv.Library Ref|TableNameOnly=Power_IC#csv|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Passive#csv.Library Ref|TableNameOnly=Passive#csv|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap22]
-Options=FieldName=Power_IC#csv.Footprint Ref|TableNameOnly=Power_IC#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Passive#csv.Footprint Ref|TableNameOnly=Passive#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap23]
+Options=FieldName=Power_IC#csv.Name|TableNameOnly=Power_IC#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Power_IC#csv.Description|TableNameOnly=Power_IC#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Power_IC#csv.Library Ref|TableNameOnly=Power_IC#csv|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Power_IC#csv.Footprint Ref|TableNameOnly=Power_IC#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
 Options=FieldName=Power_IC#csv.Manufacturer Part Number|TableNameOnly=Power_IC#csv|FieldNameOnly=Manufacturer Part Number|FieldType=1|ParameterName=Manufacturer Part Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
