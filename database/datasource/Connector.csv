@@ -2,3 +2,6 @@ Name,Description,"Library Ref","Footprint Ref",Manufacturer,"Manufacturer Part N
 TESTP_PWR_1mm,"Tespoint for Power Trace",TESTPOINT-ARROW-RED,G-PIN_1mm-CIRCLE,,,,,
 TESTP_SIG_1mm,Tespoint,TESTPOINT-ARROW-BLUE,G-PIN_1mm-CIRCLE,,,,,
 TESTP_GND_GREEN_1mm,"Ground Connection",TESTPOINT-CIRCLE-GREEN,G-PIN_1mm-CROSS,,,,,
+SOLDERED_WIRE_1mm,"Pad to solder wire","SolderedWire_1mm","1MM_PAD",,,,,
+SOLDERED_WIRE_2mm,"Pad to solder wire","SolderedWire_2mm","2MM_PAD",,,,,
+SOLDERED_WIRE_3mm,"Pad to solder wire","SolderedWire_3mm","3MM_PAD",,,,,
