@@ -1,0 +1,23 @@
+syntax: glob
+*~
+*.pyc
+*.o
+*.la
+*.lo
+*.gch
+a.out
+*.pfd
+*.elf
+*.test
+*.PcbLib.htm
+*.SchLib.htm
+
+# permitimos los pdf?
+# *.pdf
+
+.libs
+compiled/*
+
+syntax: regexp
+.*\#.*\#$
+.*/History/.*\.[^.]+\.Zip
