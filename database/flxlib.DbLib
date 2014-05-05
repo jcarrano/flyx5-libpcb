@@ -5,7 +5,7 @@ ConnectionString=FILE NAME=C:\datalink.udl
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -18,16 +18,13 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
-LastFocusedTable=Connector#csv
+LastFocusedTable=Switch#csv
 [Table1]
 SchemaName=
 TableName=Connector#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=175|Description0=218|Library Ref0=151|Footprint Ref0=146|Manufacturer0=86|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table2]
 SchemaName=
 TableName=Discrete#csv
@@ -58,6 +55,15 @@ TableName=Power_IC#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+[Table7]
+SchemaName=
+TableName=Switch#csv
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=139|Description0=201|Library Ref0=148|Footprint Ref0=141|Manufacturer0=86|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [FieldMap1]
 Options=FieldName=Connector#csv.Name|TableNameOnly=Connector#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -114,3 +120,11 @@ Options=FieldName=Power_IC#csv.Library Ref|TableNameOnly=Power_IC#csv|FieldNameO
 Options=FieldName=Power_IC#csv.Footprint Ref|TableNameOnly=Power_IC#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
 Options=FieldName=Power_IC#csv.Manufacturer Part Number|TableNameOnly=Power_IC#csv|FieldNameOnly=Manufacturer Part Number|FieldType=1|ParameterName=Manufacturer Part Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Switch#csv.Name|TableNameOnly=Switch#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Switch#csv.Description|TableNameOnly=Switch#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Switch#csv.Library Ref|TableNameOnly=Switch#csv|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Switch#csv.Footprint Ref|TableNameOnly=Switch#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
