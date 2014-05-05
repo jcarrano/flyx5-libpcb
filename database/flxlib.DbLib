@@ -18,13 +18,16 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
-LastFocusedTable=Switch#csv
+LastFocusedTable=Connector#csv
 [Table1]
 SchemaName=
 TableName=Connector#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=175|Description0=218|Library Ref0=151|Footprint Ref0=146|Manufacturer0=86|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table2]
 SchemaName=
 TableName=Discrete#csv
@@ -61,9 +64,6 @@ TableName=Switch#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=139|Description0=201|Library Ref0=148|Footprint Ref0=141|Manufacturer0=86|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [FieldMap1]
 Options=FieldName=Connector#csv.Name|TableNameOnly=Connector#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
