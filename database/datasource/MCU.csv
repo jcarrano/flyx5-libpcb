@@ -1,3 +1,4 @@
 Name,Description,"Library Ref","Footprint Ref",Manufacturer,"Manufacturer Part Number",Value,"Supplier 1","Supplier Part Number 1"
 x-TI_TM4C1231C3PM,"MCU Tiva C-Series 64 Pin LQFP",TM4C1231xxPM,JEDEC_MS-026ACD(D),"Texas Instruments",TM4C1231C3PM,,,
 x-TI_TM4C1237H6PM,"MCU Tiva C-Series 64 Pin LQFP",TM4C1237xxPM,JEDEC_MS-026ACD(D),"Texas Instruments",TM4C1237H6PM,,,
+MKE02Z64VLC2(R),"Kinetis KE02 Cortex®-M0+ MCU 32 Pin LQFP","MKE02ZxxVLC2(R)", "JEDEC_MS-026BBA", Freescale, MKE02Z64VLC2(R),,,
