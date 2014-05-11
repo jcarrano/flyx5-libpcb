@@ -7,6 +7,7 @@ HEADER_6x1_2.5mm_S_XH,"CONN HEADER XH TOP 6POS 2.5MM",HEADER-6x1,G-HEADER_6x1M2.
 HEADER_6x1_2.5mm_S_XH_Wire,"CONN HOUSING 2.5MM XH 6POS",HEADER-6x1_Mech,,,,,Syc,2318HJ-06
 HEADER_5x2_50mil_U,"CONN HEADER 10POS DL UNSHRD SMD",HEADER-5x2S,G-HEADER_5x2I.05P_SM,,,,,
 HEADER_4x2_100mil_F,"CONN HEADER FMAL 8PS .1"" DL GOLD",HEADER-4x2S,G-HEADER_4x2I.1P_TH,,,,SyC,PB08D-H
-SOLDERED_WIRE_1mm,"Pad to solder wire","SolderedWire_1mm","1MM_PAD",,,,,
-SOLDERED_WIRE_2mm,"Pad to solder wire","SolderedWire_2mm","2MM_PAD",,,,,
-SOLDERED_WIRE_3mm,"Pad to solder wire","SolderedWire_3mm","3MM_PAD",,,,,
+SOLDERED_WIRE_1mm,"Pad to solder wire","WIRE_SINGLE","HOLE_1mm",,,"1 mm",,
+SOLDERED_WIRE_2mm,"Pad to solder wire","WIRE_SINGLE","HOLE_2mm",,,"2 mm",,
+SOLDERED_WIRE_3mm,"Pad to solder wire","WIRE_SINGLE","HOLE_3mm",,,"3 mm",,
+CONN_EXT_FLX5_OVAL,"Holes for soldered ribbon cable",CONN_EXT_FLX5,HOLE_.4mm_I.05P_OVAL-34,,,,,
