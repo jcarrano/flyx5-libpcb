@@ -27,7 +27,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=175|Description0=218|Library Ref0=151|Footprint Ref0=148|Manufacturer0=115|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
+BrowserOrder_Visible=Name0=183|Description0=218|Library Ref0=151|Footprint Ref0=148|Manufacturer0=115|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table2]
 SchemaName=
 TableName=Discrete#csv
