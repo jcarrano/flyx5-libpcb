@@ -11,3 +11,4 @@ SOLDERED_WIRE_1mm,"Pad to solder wire","WIRE_SINGLE","HOLE_1mm",,,"1 mm",,
 SOLDERED_WIRE_2mm,"Pad to solder wire","WIRE_SINGLE","HOLE_2mm",,,"2 mm",,
 SOLDERED_WIRE_3mm,"Pad to solder wire","WIRE_SINGLE","HOLE_3mm",,,"3 mm",,
 CONN_EXT_FLX5_OVAL,"Holes for soldered ribbon cable",CONN_EXT_FLX5,HOLE_.4mm_I.05P_OVAL-34,,,,,
+HEADER_6x1_1.5mm_ZH_TH,"CONN HEADER ZH SIDE 6POS 1.5MM",HEADER-6x1,X-JST-S6B-ZR,"JST Sales America Inc","S6B-ZR(LF)(SN)",,"Digi-Key","455-1673-ND"
