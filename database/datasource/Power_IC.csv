@@ -1,5 +1,6 @@
 Name,Description,"Library Ref","Footprint Ref",Manufacturer,"Manufacturer Part Number",Value,"Supplier 1","Supplier Part Number 1"
 x-TI_TPS54232,"2A, 28V, 1Mhz, STEP DOWN DC/DC CONVERTER",TPS54232,JEDEC_MS-012AA,"Texas Instruments",TPS54232D,"2A, 28V, 1Mhz",,
-g-LREG_5V_0A1,"IC REG LDO 5V 0.1A 8SO",LREG_3T_8pinA_5V,JEDEC_MS-012AA,STMicroelectronics,L78L05ABD13TR,"5V, 0.1A",Digi-Key,497-1180-1-ND
+g-LREG_5V_0A1_8SO,"IC REG LDO 5V 0.1A 8SO",LREG_3T_8pinA_5V,JEDEC_MS-012AA,STMicroelectronics,L78L05ABD13TR,"5V, 0.1A",Digi-Key,497-1180-1-ND
 LM5101,"100V 2A N-Channel MOSFET Gate Driver",LM5101,JEDEC_MS-012AA,"Texas Instruments",LM5101BMA-NOPB,"2A, 100V","Texas Instruments",
 x-TI_TPS62153,"3-17V 1A Step-Down Converter in 3x3 QFN Package",TPS6215x,JEDEC_MO-220VEED-4,"Texas Instruments",TPS62153,"1A, 5V,  1.25MHz","Texas Instruments",
+g-LREG_3V3_0A15_EN_SOT753,"150 mA LDO Linear Regulator, SOT23-5",LREG_3T_5pinA_EN_3.3V,SOT753,"Skyworks Solutions Inc",AAT3221IGV-3.3-T1,"3.3V, 0.15A",Digi-Key,863-1491-1-ND
