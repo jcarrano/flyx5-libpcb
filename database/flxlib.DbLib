@@ -49,9 +49,6 @@ TableName=Passive#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=173|Description0=211|Library Ref0=75|Footprint Ref0=101|Manufacturer0=205|Manufacturer Part Number0=156|Value0=102|Supplier 10=70|Supplier Part Number 10=133
 [Table6]
 SchemaName=
 TableName=Power_IC#csv
@@ -60,7 +57,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=169|Description0=259|Library Ref0=138|Footprint Ref0=124|Manufacturer Part Number0=148|Manufacturer0=118|Value0=92|Supplier 10=94|Supplier Part Number 10=132
+BrowserOrder_Visible=Name0=169|Description0=259|Library Ref0=138|Footprint Ref0=124|Manufacturer Part Number0=148|Manufacturer0=118|Value0=92|Supplier 10=94|Supplier Part Number 10=146
 [Table7]
 SchemaName=
 TableName=Switch#csv
