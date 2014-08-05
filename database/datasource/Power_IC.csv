@@ -1,4 +1,6 @@
-Name,Description,"Library Ref","Footprint Ref",Manufacturer,"Manufacturer Part Number",Value,"Supplier 1","Supplier Part Number 1"
-x-TI_TPS54232,"2A, 28V, 1Mhz, STEP DOWN DC/DC CONVERTER",TPS54232,JEDEC_MS-012AA,"Texas Instruments",TPS54232D,"2A, 28V, 1Mhz",,
-g-LREG_5V_0A1,"IC REG LDO 5V 0.1A 8SO",LREG_3T_8pinA_5V,JEDEC_MS-012AA,STMicroelectronics,L78L05ABD13TR,"5V, 0.1A",Digi-Key,497-1180-1-ND
-LM5101,"100V 2A N-Channel MOSFET Gate Driver",LM5101, JEDEC_MS-012AA, "Texas Instruments", LM5101BMA-NOPB, "2A, 100V", "Texas Instruments",
+Name,Description,Library Ref,Footprint Ref,Manufacturer,Manufacturer Part Number,Value,Supplier 1,Supplier Part Number 1
+x-TI_TPS54232,"2A, 28V, 1Mhz, STEP DOWN DC/DC CONVERTER",TPS54232,JEDEC_MS-012AA,Texas Instruments,TPS54232D,"2A, 28V, 1Mhz",,
+g-LREG_5V_0A1,IC REG LDO 5V 0.1A 8SO,LREG_3T_8pinA_5V,JEDEC_MS-012AA,STMicroelectronics,L78L05ABD13TR,"5V, 0.1A",Digi-Key,497-1180-1-ND
+LM5101,IC DRVR HALF BRDG 100V 2A 8-SOIC,LM5101, JEDEC_MS-012AA," ""Texas Instruments""", LM5101BMA-NOPB,,Digi-Key,LM5101BMA/NOPB-ND
+x-TI_UCC27201A,IC DVR HIGH/LOW SIDE 3A 9SON,UCC27201A,x-TI_S-PVSON-N9," ""Texas Instruments""",UCC27201ADRCT,,Digi-Key,296-30051-2-ND
+x-TI_LP5900,IC REG LDO 3.3V 0.15A 6WSON,LREG_4T_6pinA_3.3V,x-TI_S-NGF0006A," ""Texas Instruments""",LP5900SD-3.3/NOPB,,Digi-Key,LP5900SD-3.3/NOPBCT-ND

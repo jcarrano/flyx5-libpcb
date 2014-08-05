@@ -18,16 +18,14 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
-LastFocusedTable=Connector#csv
+SchemaName=
+LastFocusedTable=Power_IC#csv
 [Table1]
 SchemaName=
 TableName=Connector#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=183|Description0=218|Library Ref0=151|Footprint Ref0=148|Manufacturer0=115|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table2]
 SchemaName=
 TableName=Discrete#csv
@@ -40,9 +38,6 @@ TableName=MCU#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=115|Description0=230|Library Ref0=100|Footprint Ref0=121|Manufacturer Part Number0=148|Manufacturer0=94|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table4]
 SchemaName=
 TableName=Mixed_Signal#csv
@@ -55,15 +50,15 @@ TableName=Passive#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=173|Description0=211|Library Ref0=75|Footprint Ref0=101|Manufacturer0=205|Manufacturer Part Number0=156|Value0=102|Supplier 10=70|Supplier Part Number 10=133
 [Table6]
 SchemaName=
 TableName=Power_IC#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=89|Description0=250|Library Ref0=112|Footprint Ref0=96|Manufacturer0=110|Manufacturer Part Number0=160|Value0=80|Supplier 10=75|Supplier Part Number 10=142
 [Table7]
 SchemaName=
 TableName=Switch#csv
@@ -125,12 +120,10 @@ Options=FieldName=Power_IC#csv.Library Ref|TableNameOnly=Power_IC#csv|FieldNameO
 [FieldMap27]
 Options=FieldName=Power_IC#csv.Footprint Ref|TableNameOnly=Power_IC#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap28]
-Options=FieldName=Power_IC#csv.Manufacturer Part Number|TableNameOnly=Power_IC#csv|FieldNameOnly=Manufacturer Part Number|FieldType=1|ParameterName=Manufacturer Part Number|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap29]
 Options=FieldName=Switch#csv.Name|TableNameOnly=Switch#csv|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap30]
+[FieldMap29]
 Options=FieldName=Switch#csv.Description|TableNameOnly=Switch#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap31]
+[FieldMap30]
 Options=FieldName=Switch#csv.Library Ref|TableNameOnly=Switch#csv|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
-[FieldMap32]
+[FieldMap31]
 Options=FieldName=Switch#csv.Footprint Ref|TableNameOnly=Switch#csv|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
