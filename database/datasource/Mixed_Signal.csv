@@ -1,0 +1,4 @@
+Name,Description,"Library Ref","Footprint Ref",Manufacturer,"Manufacturer Part Number",Value,"Supplier 1","Supplier Part Number 1"
+MPL3115A2,"IC ALTIMETER I2C VERSION 8LGA",MPL3115A2,x-FREE_2053-01(LGA8),"Freescale Semiconductor",MPL3115A2,MPL3115A2,Digi-Key,MPL3115A2-ND
+MPU-6500,"GYRO/ACCELEROMETER 6AXIS 24QFN",MPU-6500,QFN40P300X300X95-24N,Invensense,MPU-6500,MPU-6500,Digi-Key,1428-1011-1-ND
+MAG3110,"XYZ Digital Magnetometer I2C",MAG3110,SON40P200X200X80-10WL,"Freescale Semiconductor",MAG3110FCR1,MAG3110,,

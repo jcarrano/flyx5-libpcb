@@ -1,0 +1,3 @@
+IPC_Chip: Passive components in ceramic IPC-standard chip packages.
+Vendor: Directory for vendor-specific footprints.
+PCB: Pcb-only conponents (pcb antennas, inductors, logos, fiducials, etc)
