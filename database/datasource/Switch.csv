@@ -1,2 +1,3 @@
 Name,Description,"Library Ref","Footprint Ref",Manufacturer,"Manufacturer Part Number",Value,"Supplier 1","Supplier Part Number 1"
 SW_TACT_6x6mm_A5_TH,"SWITCH TACTILE SPST-NO 0.05A 12V",SWITCH-TACTILE-SPST-NO,G-SWITCH-M6x6A5-4T_TH,,,,SyC,TS-2
+SW_TACT_7.1x6.6mm_S_A5_TH,"SWITCH TACTILE SPST-NO 0.05A 12V",SWITCH-TACTILE-SPST-NO,G-SWITCH-M7.1x6.6AS3.25-2T_TH,"TE Connectivity",1825027-8,,Digi-Key,450-1657-ND
