@@ -18,8 +18,7 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
-SchemaName=
-LastFocusedTable=Power_IC#csv
+LastFocusedTable=Switch#csv
 [Table1]
 SchemaName=
 TableName=Analog_IC#csv
@@ -28,61 +27,43 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=85|Description0=134|Library Ref0=77|Footprint Ref0=99|Manufacturer0=107|Manufacturer Part Number0=160|Value0=52|Supplier 10=75|Supplier Part Number 10=142
+BrowserOrder_Visible=Description0=142|Library Ref0=74|Footprint Ref0=100|Name0=90|Manufacturer0=104|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [Table2]
 SchemaName=
 TableName=Connector#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=176|Description0=212|Library Ref0=139|Footprint Ref0=146|Manufacturer0=113|Manufacturer Part Number0=160|Value0=52|Supplier 10=75|Supplier Part Number 10=142
 [Table3]
 SchemaName=
 TableName=Discrete#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=125|Description0=246|Library Ref0=100|Footprint Ref0=92|Value0=95|Manufacturer0=180|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142
 [Table4]
 SchemaName=
 TableName=MCU#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=112|Description0=241|Library Ref0=96|Footprint Ref0=118|Manufacturer Part Number0=160|Manufacturer0=99|Value0=52|Supplier 10=75|Supplier Part Number 10=142
 [Table5]
 SchemaName=
 TableName=Mixed_Signal#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=66|Description0=198|Library Ref0=77|Footprint Ref0=141|Value0=66|Manufacturer0=135|Manufacturer Part Number0=160|Supplier 10=75|Supplier Part Number 10=142
 [Table6]
 SchemaName=
 TableName=Passive#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=168|Description0=208|Library Ref0=77|Footprint Ref0=152|Manufacturer0=215|Manufacturer Part Number0=160|Value0=106|Supplier 10=75|Supplier Part Number 10=142
 [Table7]
 SchemaName=
 TableName=Power_IC#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=89|Description0=250|Library Ref0=112|Footprint Ref0=96|Manufacturer0=110|Manufacturer Part Number0=160|Value0=80|Supplier 10=75|Supplier Part Number 10=142
 [Table8]
 SchemaName=
 TableName=Switch#csv
@@ -91,7 +72,7 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=130|Description0=189|Library Ref0=155|Footprint Ref0=137|Manufacturer0=93|Manufacturer Part Number0=160|Value0=52|Supplier 10=75|Supplier Part Number 10=142
+BrowserOrder_Visible=Name0=200|Description0=201|Library Ref0=170|Footprint Ref0=181|Manufacturer0=90|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
 [FieldMap1]
 Options=FieldName=Analog_IC#csv.Description|TableNameOnly=Analog_IC#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
