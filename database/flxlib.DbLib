@@ -5,7 +5,7 @@ ConnectionString=FILE NAME=C:\datalink.udl
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -18,7 +18,7 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
-LastFocusedTable=Switch#csv
+LastFocusedTable=Analog_IC#csv
 [Table1]
 SchemaName=
 TableName=Analog_IC#csv
