@@ -18,6 +18,7 @@ TopPanelCollapsed=0
 LibrarySearchPath=..\footprints;..\symbols
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
+SchemaName=
 LastFocusedTable=Analog_IC#csv
 [Table1]
 SchemaName=
@@ -27,19 +28,25 @@ UserWhere=0
 UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=142|Library Ref0=74|Footprint Ref0=100|Name0=90|Manufacturer0=104|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
+BrowserOrder_Visible=Description0=134|Library Ref0=77|Footprint Ref0=99|Name0=85|Manufacturer0=107|Manufacturer Part Number0=160|Value0=52|Supplier 10=75|Supplier Part Number 10=142
 [Table2]
 SchemaName=
 TableName=Connector#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=169|Description0=212|Library Ref0=139|Footprint Ref0=146|Manufacturer0=113|Manufacturer Part Number0=160|Value0=52|Supplier 10=75|Supplier Part Number 10=142
 [Table3]
 SchemaName=
 TableName=Discrete#csv
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Value0=100|Manufacturer0=100|Manufacturer Part Number0=100|Supplier 10=100|Supplier Part Number 10=100
 [Table4]
 SchemaName=
 TableName=MCU#csv
@@ -69,10 +76,10 @@ SchemaName=
 TableName=Switch#csv
 Enabled=True
 UserWhere=0
-UserWhereText=
+UserWhereText=[Name] = '{Name}'
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Name0=200|Description0=201|Library Ref0=170|Footprint Ref0=181|Manufacturer0=90|Manufacturer Part Number0=148|Value0=50|Supplier 10=70|Supplier Part Number 10=132
+BrowserOrder_Visible=Name0=186|Description0=189|Library Ref0=155|Footprint Ref0=176|Manufacturer0=99|Manufacturer Part Number0=160|Value0=52|Supplier 10=75|Supplier Part Number 10=142
 [FieldMap1]
 Options=FieldName=Analog_IC#csv.Description|TableNameOnly=Analog_IC#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
