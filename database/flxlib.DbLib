@@ -71,6 +71,9 @@ TableName=Switch#csv
 Enabled=True
 UserWhere=0
 UserWhereText=[Name] = '{Name}'
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Name0=186|Description0=189|Library Ref0=155|Footprint Ref0=176|Manufacturer0=99|Manufacturer Part Number0=160|Value0=52|Supplier 10=75|Supplier Part Number 10=142
 [FieldMap1]
 Options=FieldName=Analog_IC#csv.Description|TableNameOnly=Analog_IC#csv|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
