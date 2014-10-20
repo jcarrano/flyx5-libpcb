@@ -1,2 +1,2 @@
 Name,Description,"Library Ref","Footprint Ref",Manufacturer,"Manufacturer Part Number",Value,"Supplier 1","Supplier Part Number 1"
-x-TI_TS5A3159A,"IC SWITCH SPDT SOT23-6",TS5A3159A,JEDEC_MO-178AB,"Texas Instruments",TS5A3159ADBVR,,Digi-Key,296-19265-1-ND
+PIEZO_BUZZER_EXT,"Piezoelectric buzzer (soldered wire)",PIEZO_BUZZER,TWO_WIRE_HOLE_M0.9D3P,,,,,
